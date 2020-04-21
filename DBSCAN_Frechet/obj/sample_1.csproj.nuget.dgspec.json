@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/helo/Mestrado/Articles/cluster_program/sample_1_mod/PROGRAMA_MONTANARI/HELIOS2019_3_8/sample_1/sample_1.csproj": {}
+  },
+  "projects": {
+    "/home/helo/Mestrado/Articles/cluster_program/sample_1_mod/PROGRAMA_MONTANARI/HELIOS2019_3_8/sample_1/sample_1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/helo/Mestrado/Articles/cluster_program/sample_1_mod/PROGRAMA_MONTANARI/HELIOS2019_3_8/sample_1/sample_1.csproj",
+        "projectName": "sample_1",
+        "projectPath": "/home/helo/Mestrado/Articles/cluster_program/sample_1_mod/PROGRAMA_MONTANARI/HELIOS2019_3_8/sample_1/sample_1.csproj",
+        "packagesPath": "/home/helo/.nuget/packages/",
+        "outputPath": "/home/helo/Mestrado/Articles/cluster_program/sample_1_mod/PROGRAMA_MONTANARI/HELIOS2019_3_8/sample_1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/helo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
